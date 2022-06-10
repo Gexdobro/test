@@ -1,5 +1,5 @@
 import unittest
-from src.utilities import add
+from src.utilities.helpers import add
 
 class TestHelpers(unittest.TestCase):
     def test_1_should_equal_1(self):
