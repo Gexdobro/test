@@ -7,4 +7,6 @@ _data = {
 
 df = pd.DataFrame(_data)
 
+df['new_column'] = True
+
 print(df.head())
