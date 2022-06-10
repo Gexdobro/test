@@ -3,7 +3,7 @@ from pandas.testing import assert_frame_equal
 import pandas as pd
 from src.utilities.pandas_df import mutliply_df_by_10
 
-class TestHelpers(unittest.TestCase):
+class TestPandasDf(unittest.TestCase):
     def test_multiply_by_10_should_give_a_df_with_values_mutliplied_by_10(self):
         # arrange
         df = pd.DataFrame({
