@@ -1,2 +1,3 @@
 python_venv_testing
 .vscode
+*/__pycache__
