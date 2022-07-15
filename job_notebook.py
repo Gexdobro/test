@@ -4,6 +4,6 @@ print("hello world")
 
 # COMMAND
 
-print("another hello")
+print("another hello world")
 
 # COMMAND
